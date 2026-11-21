@@ -21,9 +21,9 @@ from PyQt5.QtCore import QTimer, Qt, QDateTime, pyqtSignal, QObject
 from PyQt5.QtGui import QPixmap, QImage, QFont, QColor
 
 # ---------------- SYSTEM CONFIGURATION ----------------
-FIREBASE_DATABASE_URL = "https://project-e7c05-default-rtdb.firebaseio.com/"
-ESP32_CAMERA_STREAM_URL = "http://192.168.1.9/stream"
-FIREBASE_API_KEY = "AIzaSyBwkcCn8LSbB8NzqKVuPqgFKOpgRPlf7UE"
+FIREBASE_DATABASE_URL = "Database_url"
+ESP32_CAMERA_STREAM_URL = "esp_cam_url"
+FIREBASE_API_KEY = "Firebase_API_Key"
 
 # YOLOv8 Model paths
 YOLO_MODEL_PATH = "models/yolov8n.pt"  # Pre-trained model
