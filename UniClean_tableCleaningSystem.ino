@@ -4,13 +4,13 @@
 #include <ESP32Servo.h>
 
 // ---------- NETWORK CONFIGURATION ----------
-#define WIFI_SSID "Anchal"
-#define WIFI_PASSWORD "98765432"
+#define WIFI_SSID "Name"
+#define WIFI_PASSWORD "pass_word"
 
 // ---------- FIREBASE CONFIGURATION ----------
-#define API_KEY "AIzaSyC1h5LqBaeThjOAOxsu6uptg1aphpznNIA"
-#define DATABASE_URL "https://finalprojectuniclean-default-rtdb.firebaseio.com"
-#define USER_EMAIL "joshianchal128@gmail.com"
+#define API_KEY "your_API_key"
+#define DATABASE_URL "Database_url"
+#define USER_EMAIL "email@gmail.com"
 #define USER_PASSWORD "Password"
 
 // Firebase objects
